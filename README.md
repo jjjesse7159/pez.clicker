@@ -1,2 +1,2 @@
 # pez.clicker
-Created with CodeSandbox
+Created with scratch
